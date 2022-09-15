@@ -1,0 +1,12 @@
+h1 {
+  color: #26ac5f;
+}
+h1,h2,h3{
+  font-family:  Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+nav{
+  text-align: center;
+  background-color: #eee;
+  padding: 15px;
+}
